@@ -1,0 +1,28 @@
+.color{
+    text-align: center;
+}
+p{
+    text-align: center;
+    font-size: 20px;
+}
+.container1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#cir{
+    height: 400px;
+    width: 400px;
+    border-radius: 50%;
+    background-color:rgb(0, 60, 255);
+    display: inline-block;
+    margin: 10px;
+  
+}
+.button{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-top: 20px;
+    justify-content: center;
+}
